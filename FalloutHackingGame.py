@@ -8,6 +8,7 @@ Ask the player for a difficulty (very easy, easy, average, hard, very hard), the
 
 
 """Maybe sloppy code but it works"""
+"""Here is where to find enable1.txt https://code.google.com/archive/p/dotnetperls-controls/downloads"""
 import random
 
 def main():
